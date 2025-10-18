@@ -1,8 +1,0 @@
-C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\uzenetrogzito\bin\Debug\uzenetrogzito.exe.config
-C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\uzenetrogzito\bin\Debug\uzenetrogzito.exe
-C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\uzenetrogzito\bin\Debug\uzenetrogzito.pdb
-C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\uzenetrogzito\obj\Debug\uzenetrogzito.csproj.AssemblyReference.cache
-C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\uzenetrogzito\obj\Debug\uzenetrogzito.csproj.CoreCompileInputs.cache
-C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\uzenetrogzito\obj\Debug\uzenetrogzito.exe
-C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\uzenetrogzito\obj\Debug\uzenetrogzito.pdb
-C:\Users\TothMarcel\Desktop\IKT-ProjektMunka\uzenetrogzito\obj\Debug\uzenetrogzito.exe.config
